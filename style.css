@@ -17,3 +17,15 @@ img{
     
     width: 200px;
 }
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: orange;
+}
+
+th,tr{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
