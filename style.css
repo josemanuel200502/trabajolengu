@@ -9,6 +9,10 @@ h1 {
     color: orange;
 }
 
+.carousel-inner{
+    background-color:greenyellow;
+}
+
 
 .navbar{
     background-image: url(img/escamas.jpg);
@@ -17,10 +21,7 @@ h1 {
     border: black 3px solid;
 }
 
-img{
-    
-    width: 200px;
-}
+
 
 table{
     
@@ -29,6 +30,9 @@ table{
     background-color: green;
     margin-top: 10%;
 }
+
+
+
 
 th,tr{
     padding: 8px;
